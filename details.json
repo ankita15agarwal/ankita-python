@@ -1,0 +1,18 @@
+{
+  "CarDetails": [{
+    "name": "Alto",
+    "model": "Alto LXi",
+    "colour": "red",
+    "launch date": "27 sep 2000",
+    "price": 4.36
+  },
+    {
+      "name": "Alto",
+      "model": "Alto STD(o)",
+      "colour": "black",
+      "launch date": "27 sep 2000",
+      "price": 3.56
+    }
+
+  ]
+}
