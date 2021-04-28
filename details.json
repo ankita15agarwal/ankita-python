@@ -1,18 +1,47 @@
 {
-  "CarDetails": [{
-    "name": "Alto",
-    "model": "Alto LXi",
-    "colour": "red",
-    "launch date": "27 sep 2000",
-    "price": 4.36
-  },
+  "Detail": [
     {
       "name": "Alto",
-      "model": "Alto STD(o)",
-      "colour": "black",
+      "model": "Alto LXi",
+      "colour": "red",
       "launch date": "27 sep 2000",
-      "price": 3.56
-    }
+      "price": 4.36
+    },
+      {
+        "name": "Alto",
+        "model": "Alto STD(o)",
+        "colour": "black",
+        "launch date": "27 sep 2000",
+        "price": 3.56
+      },
+    {
+      "name": "Audi",
+      "model": "Audi A3",
+      "colour": "Dark grey",
+      "lauch date": "October 2021",
+      "price": 3200000
+    },
 
+    {
+      "name": "Audi",
+      "model": "Audi A1",
+      "colour": "Dark grey",
+      "lauch date": "not yet",
+      "price": 1900000
+    },
+    {
+      "name": "Wagon R ",
+      "model": "Wagon R LXI",
+      "colour": "grey",
+      "launch date": "18 Dec 1999",
+      "price": "5.54 cr"
+    },
+    {
+      "name": "Ferrari",
+      "model": "Ferrari 812",
+      "colour": "Dark grey",
+      "lauch date": "5 may 2021",
+      "price":"5.20 cr"
+    }
   ]
 }
