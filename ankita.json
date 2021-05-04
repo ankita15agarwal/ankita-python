@@ -1,0 +1,82 @@
+{
+    "detail": [
+        {
+            "name": "Alto",
+            "model": "Alto LXi",
+            "colour": "red",
+            "launch_date": "27 sep 2000",
+            "price": 4.36
+        },
+        {
+            "name": "Alto",
+            "model": "Alto STD(o)",
+            "colour": "black",
+            "launch_date": "27 sep 2000",
+            "price": 3.56
+        },
+        {
+            "name": "Audi",
+            "model": "Audi A3",
+            "colour": "Dark grey",
+            "launch_date": "October 2021",
+            "price": 3200000
+        },
+        {
+            "name": "Audi",
+            "model": "Audi A1",
+            "colour": "Dark grey",
+            "launch_date": "not yet",
+            "price": 1900000
+        },
+        {
+            "name": "Wagon R ",
+            "model": "Wagon R LXI",
+            "colour": "grey",
+            "launch_date": "18 Dec 1999",
+            "price": "5.54 cr"
+        },
+        {
+            "name": " aff",
+            "model": "xxhn",
+            "launch_date": "hchgh",
+            "colour": "fhghg",
+            "price": "dfghfgh"
+        },
+        {
+            "name": " da",
+            "model": "ggf",
+            "launch_date": "gfghfh",
+            "colour": "hffh",
+            "price": "fhfhkl"
+        },
+        {
+            "name": " da",
+            "model": "fsfsfg",
+            "launch_date": "ffsf",
+            "colour": "ffxf",
+            "price": "ffx"
+        },
+        {
+            "name": " da",
+            "model": "fsfsfg",
+            "launch_date": "ffsf",
+            "colour": "ffxf",
+            "price": "ffx"
+        },
+        {
+            "name": " Mercedes",
+            "model": " M1 ",
+            "launch_date": " White",
+            "colour": " 12 april 2021",
+            "price": " 6.0 cr"
+        }
+    ]
+}   {
+            "name": " Mercedes",
+            "model": " M1 ",
+            "launch_date": " White",
+            "colour": " 12 april 2021",
+            "price": " 6.0 cr"
+        }
+    ]
+}
